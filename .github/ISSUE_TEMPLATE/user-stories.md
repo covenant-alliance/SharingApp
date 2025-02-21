@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **As a** Owner
-	 **I want** [function]  
+	 **I want** to [function]  
 	 **So that** [benefit]  
 	   
 	 ### Details and Assumptions
